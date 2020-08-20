@@ -1,6 +1,6 @@
 # cookiesapp
 
-A new Flutter project...For my Love of Cookies...
+For my Love for Cookies...
 
 ## Getting Started
 
